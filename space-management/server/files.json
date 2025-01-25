@@ -1,0 +1,1343 @@
+{
+  "files": [
+    {
+      "id": "ykcme53bl",
+      "userId": "yanly",
+      "name": "1",
+      "content": {
+        "elements": [
+          {
+            "id": "WK8xpW2WNbfPi8oLlPLJx",
+            "type": "seat",
+            "position": {
+              "x": 459,
+              "y": 293,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 120,
+              "height": 50,
+              "depth": 100
+            },
+            "properties": {}
+          },
+          {
+            "id": "K3lSJxkRaKzvYQbWFZk10",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 454.13324036013927
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 305,
+                "y": 559,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 761,
+                "y": 570,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 454.13324036013927
+            }
+          },
+          {
+            "id": "66tNYsSP_5hB3dsfAYG8k",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 220.42232191862965
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 792,
+                "y": 340,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 767,
+                "y": 560,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 220.42232191862965
+            }
+          },
+          {
+            "id": "4fNn_jeGqA3Qc4N27YK-8",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 217.0829334609241
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 907,
+                "y": 234,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 1126,
+                "y": 228,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 217.0829334609241
+            }
+          },
+          {
+            "id": "b1kNM0bmlBzCCvOJKd5zj",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 143.50261321662404
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 1126,
+                "y": 228,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 1138,
+                "y": 373,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 143.50261321662404
+            }
+          },
+          {
+            "id": "vKuzW9QCE0dcQp0wlihee",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 160.0781059358212
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 1138,
+                "y": 373,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 1077,
+                "y": 522,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 160.0781059358212
+            }
+          },
+          {
+            "id": "lHaB36kd6xbixG1kZOSjk",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 204.38444167793205
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 1077,
+                "y": 522,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 928,
+                "y": 373,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 204.38444167793205
+            }
+          }
+        ]
+      },
+      "createdAt": "2025-01-19T02:48:18.655Z",
+      "updatedAt": "2025-01-19T02:48:38.713Z"
+    },
+    {
+      "id": "zwd3rnuci",
+      "userId": "yanly",
+      "name": "2",
+      "content": {
+        "elements": [
+          {
+            "id": "WK8xpW2WNbfPi8oLlPLJx",
+            "type": "seat",
+            "position": {
+              "x": 1126.8784970000002,
+              "y": 746.5196160000003,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 120,
+              "height": 50,
+              "depth": 100
+            },
+            "properties": {}
+          },
+          {
+            "id": "K3lSJxkRaKzvYQbWFZk10",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 454.13324036013927
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 305,
+                "y": 559,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 761,
+                "y": 570,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 454.13324036013927
+            }
+          },
+          {
+            "id": "66tNYsSP_5hB3dsfAYG8k",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 220.42232191862965
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 792,
+                "y": 340,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 767,
+                "y": 560,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 220.42232191862965
+            }
+          },
+          {
+            "id": "4fNn_jeGqA3Qc4N27YK-8",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 217.0829334609241
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 907,
+                "y": 234,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 1126,
+                "y": 228,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 217.0829334609241
+            }
+          },
+          {
+            "id": "b1kNM0bmlBzCCvOJKd5zj",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 143.50261321662404
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 1126,
+                "y": 228,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 1138,
+                "y": 373,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 143.50261321662404
+            }
+          },
+          {
+            "id": "vKuzW9QCE0dcQp0wlihee",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 160.0781059358212
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 1138,
+                "y": 373,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 1077,
+                "y": 522,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 160.0781059358212
+            }
+          },
+          {
+            "id": "lHaB36kd6xbixG1kZOSjk",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 204.38444167793205
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 1077,
+                "y": 522,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 928,
+                "y": 373,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 204.38444167793205
+            }
+          },
+          {
+            "id": "HQqKCvcGNCmbqAsj-VAMo",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 662.7710888695024
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": -69.42985665379035,
+                "y": 91.50983404335994,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 44.69481159060979,
+                "y": 756.2860265669906,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 662.7710888695024
+            }
+          },
+          {
+            "id": "xhwN1UQvBehuTf9IpcLFH",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 1097.5602884585205
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 44.69481159060979,
+                "y": 756.2860265669906,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 1197.3539608590509,
+                "y": 858.9982279869507,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 1097.5602884585205
+            }
+          },
+          {
+            "id": "12ySRPIxQjKXxSopxYey5",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 960.3863765186012
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 1197.3539608590509,
+                "y": 858.9982279869507,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 1873.5426202071217,
+                "y": 159.98463499000007,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 960.3863765186012
+            }
+          },
+          {
+            "id": "dAGXHVzXbHVLhEZRJq8nH",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 1317.8125719801608
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 1873.5426202071217,
+                "y": 159.98463499000007,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 561.1089353965202,
+                "y": -31.17418431937017,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 1317.8125719801608
+            }
+          },
+          {
+            "id": "ox77RkYsbQcyChFMAnjNC",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 494.3801725736853
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 561.1089353965202,
+                "y": -31.17418431937017,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 61.813511827269735,
+                "y": 31.594383215049902,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 494.3801725736853
+            }
+          },
+          {
+            "id": "X5EXNJKGzCtQYe5X5hlNx",
+            "type": "seat",
+            "position": {
+              "x": 30.221122789389653,
+              "y": 109.24186641383011,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 120,
+              "height": 50,
+              "depth": 100
+            },
+            "properties": {}
+          },
+          {
+            "id": "E9r5wn_C8C9HkXu2byocB",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 20,
+              "height": 20,
+              "depth": 305.9360737882812
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 241.55986431219992,
+                "y": 428.1776053643403,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 546.8433518659704,
+                "y": 451.00253901322026,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "length": 305.9360737882812
+            }
+          },
+          {
+            "id": "xMb7p_W_ceKAz4IPBSTly",
+            "type": "seat",
+            "position": {
+              "x": 206.90899921709,
+              "y": 664.2826102266603,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 120,
+              "height": 50,
+              "depth": 100
+            },
+            "properties": {}
+          },
+          {
+            "id": "PvVyDswC1ZOvw2vNguvjy",
+            "type": "seat",
+            "position": {
+              "x": 1570.802863946421,
+              "y": 234.4832925205501,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 120,
+              "height": 50,
+              "depth": 100
+            },
+            "properties": {}
+          },
+          {
+            "id": "K9r_gk6ZAadWktzqqRjUs",
+            "type": "seat",
+            "position": {
+              "x": 1302.9192789851209,
+              "y": 274.1093032344001,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 120,
+              "height": 50,
+              "depth": 100
+            },
+            "properties": {}
+          }
+        ]
+      },
+      "createdAt": "2025-01-19T02:49:10.380Z",
+      "updatedAt": "2025-01-19T02:50:01.781Z"
+    },
+    {
+      "id": "tvwvv79zi",
+      "userId": "yanly",
+      "name": "3",
+      "content": {
+        "elements": [
+          {
+            "id": "7mk-bDzyN-ZHEPzafcQ_G",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 235,
+                "y": 415,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 636,
+                "y": 415,
+                "type": "endpoint"
+              },
+              "thickness": 20
+            }
+          },
+          {
+            "id": "75bRKnjSKv7SFCWffZT6Y",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 636,
+                "y": 415,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 636,
+                "y": 152,
+                "type": "endpoint"
+              },
+              "thickness": 20
+            }
+          },
+          {
+            "id": "2IAjFkpeKKQ12HhGSUZ-3",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 636,
+                "y": 152,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 226,
+                "y": 152,
+                "type": "endpoint"
+              },
+              "thickness": 20
+            }
+          },
+          {
+            "id": "sWxrqkyl68eg5-G3OTHEJ",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 226,
+                "y": 152,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 226,
+                "y": 315,
+                "type": "endpoint"
+              },
+              "thickness": 20
+            }
+          },
+          {
+            "id": "6bag--WTCcy26CE95Cgn1",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 226,
+                "y": 315,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 115,
+                "y": 315,
+                "type": "endpoint"
+              },
+              "thickness": 20
+            }
+          },
+          {
+            "id": "DysuCYBcqAUbObro0xUMR",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 115,
+                "y": 315,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 115,
+                "y": 498,
+                "type": "endpoint"
+              },
+              "thickness": 20
+            }
+          },
+          {
+            "id": "Uvog0cf7q1o0RLiIY7myf",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 115,
+                "y": 498,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 250,
+                "y": 498,
+                "type": "endpoint"
+              },
+              "thickness": 20
+            }
+          },
+          {
+            "id": "RXqSFot0_cxKRTDvS6NcE",
+            "type": "seat",
+            "position": {
+              "x": 302,
+              "y": 216,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 120,
+              "height": 50,
+              "depth": 100
+            },
+            "properties": {}
+          },
+          {
+            "id": "dfBT1DkOsynFVxt8BSzOZ",
+            "type": "seat",
+            "position": {
+              "x": 430,
+              "y": 217,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 120,
+              "height": 50,
+              "depth": 100
+            },
+            "properties": {}
+          },
+          {
+            "id": "iTLono3bQUsVvkl1Ag7yg",
+            "type": "seat",
+            "position": {
+              "x": 588,
+              "y": 221,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 120,
+              "height": 50,
+              "depth": 100
+            },
+            "properties": {}
+          }
+        ]
+      },
+      "createdAt": "2025-01-19T03:48:50.192Z",
+      "updatedAt": "2025-01-19T14:39:46.480Z"
+    },
+    {
+      "id": "fn0t9nmyi",
+      "userId": "yan",
+      "name": "1",
+      "content": {
+        "elements": [
+          {
+            "id": "iAccRG18jeTgpEx0KWufD",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 471,
+                "y": 228,
+                "type": "endpoint"
+              },
+              "endPoint": {
+                "x": 761,
+                "y": 228,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "isGlass": false
+            }
+          },
+          {
+            "id": "861ZcPVWBW4ht3_Lo_UCR",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 761,
+                "y": 228,
+                "type": "endpoint",
+                "wallId": "iAccRG18jeTgpEx0KWufD",
+                "distance": 3.1622776601683795
+              },
+              "endPoint": {
+                "x": 761,
+                "y": 443,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "isGlass": false
+            }
+          },
+          {
+            "id": "I2hvI_7w66ytxtGde2Tkn",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 761,
+                "y": 443,
+                "type": "endpoint",
+                "wallId": "861ZcPVWBW4ht3_Lo_UCR",
+                "distance": 1
+              },
+              "endPoint": {
+                "x": 989,
+                "y": 443,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "isGlass": false
+            }
+          },
+          {
+            "id": "MgEEFOCePO6ZoDn7MfC_0",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 989,
+                "y": 443,
+                "type": "endpoint",
+                "wallId": "I2hvI_7w66ytxtGde2Tkn",
+                "distance": 4.123105625617661
+              },
+              "endPoint": {
+                "x": 989,
+                "y": 597,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "isGlass": false
+            }
+          },
+          {
+            "id": "1lcgOZ6XY0aYX8HASRZC2",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 989,
+                "y": 597,
+                "type": "endpoint",
+                "wallId": "MgEEFOCePO6ZoDn7MfC_0",
+                "distance": 6.4031242374328485
+              },
+              "endPoint": {
+                "x": 358,
+                "y": 597,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "isGlass": false
+            }
+          },
+          {
+            "id": "_IyMwTinLQc4Hh7GUE_fB",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 358,
+                "y": 597,
+                "type": "endpoint",
+                "wallId": "1lcgOZ6XY0aYX8HASRZC2",
+                "distance": 4.47213595499958
+              },
+              "endPoint": {
+                "x": 358,
+                "y": 343,
+                "type": "endpoint"
+              },
+              "thickness": 20,
+              "isGlass": false
+            }
+          },
+          {
+            "id": "9fXVCQSgBtUWtCGV7Kefr",
+            "type": "wall",
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 0,
+              "height": 0,
+              "depth": 0
+            },
+            "properties": {
+              "type": "straight",
+              "startPoint": {
+                "x": 358,
+                "y": 343,
+                "type": "endpoint",
+                "wallId": "_IyMwTinLQc4Hh7GUE_fB",
+                "distance": 5.830951894845301
+              },
+              "endPoint": {
+                "x": 471,
+                "y": 228,
+                "type": "endpoint",
+                "wallId": "iAccRG18jeTgpEx0KWufD",
+                "distance": 2
+              },
+              "thickness": 20,
+              "isGlass": false
+            }
+          },
+          {
+            "id": "M1UlC4Q1J558L1gjn3No1",
+            "type": "seat",
+            "position": {
+              "x": 265,
+              "y": 146,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "dimensions": {
+              "width": 120,
+              "height": 50,
+              "depth": 100
+            },
+            "properties": {}
+          }
+        ]
+      },
+      "createdAt": "2025-01-23T05:06:42.407Z",
+      "updatedAt": "2025-01-23T05:06:42.407Z"
+    }
+  ]
+}
